@@ -1,0 +1,98 @@
+/*				animation				*/
+
+@keyframes maCrewLogo{
+	0%, 100%{
+		filter: blur(1px);
+		text-shadow: 0 0 10px #ff9d00,
+		0 0 20px #ff9d00,
+		0 0 40px #ff9d00,
+		0 0 20px #ff9d00;
+		
+	}
+	25%, 80%{
+		filter: blur(0px);
+		text-shadow: none;
+	}
+}
+
+@keyframes ident{
+	0%{
+		background-color: #000;
+	}
+	20%, 80%{
+		background-color: var(--bg-saiias);
+	}
+	100%{
+		display: none;
+	}
+}
+
+@keyframes ColorTransition{
+	0%{
+		background-color: var(--bg-saiias-sav);
+		color: var(--font-color-sav);
+	}
+	100%{
+		background-color: var(--bg-saiias);
+		color: var(--font-color);
+	}
+}
+
+@keyframes dumbOverture{
+	0%{
+		display: none;
+		visibility: hidden;
+		opacity: 0%;
+	}
+	55%{
+		display: flex;
+		opacity: 100%;
+		text-shadow: 0px 0px 4px #fff;
+		color: #fff;
+	}
+	100%{
+		display: flex;
+	}
+}
+
+@keyframes dumbOvertureReversed{
+	0%{
+		transform: scale(8);
+	}
+	100%{
+		transform: scale(1);
+	}
+}
+
+@keyframes patternXMove{
+	0%{
+		background-position: 0 0;
+	}
+	100%{
+		background-position: 2000px 0;
+	}
+}
+
+@keyframes errorbarYMove{
+	0%{
+		background-position: calc(100vw - 400px) 0vh;
+	}
+	100%{
+		background-position: calc(100vw - 400px) 100vh;
+	}
+}
+
+@keyframes opacityFadeIn{
+	0%{
+		opacity: 0%;
+	}
+	100%{
+		opacity: 70%;
+	}
+}
+
+@keyFrames opacityFadeOut{
+	
+}
+
+/*			fim animation			*/

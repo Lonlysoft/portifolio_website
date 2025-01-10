@@ -1,0 +1,16 @@
+@font-face{
+	font-family: "VCR OSD Mono Regular";
+	src: local("VCR OSD Mono Regular"), url("VCR OSD Mono Regular.ttf") format('truetype');
+}
+
+@font-face{
+	font-family: "tabarra Shadow Regular";
+	src: local("tabarra Shadow Regular"), local("tabarra shadow"), url("Tabarra-Shadow-FFP.otf") format('opentype');
+}
+
+@font-face{
+	font-family: "Rounded";
+	src: local("Varela Round"), url("varelaRound-Regular.ttf")format('truetype')
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300..700&display=swap')
