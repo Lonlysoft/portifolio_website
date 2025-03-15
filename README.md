@@ -7,13 +7,13 @@ Versão 1.0
 
 A versão 1.0 é uma versão. também conhecida como rolagem em salas. que utiliza o body com overflow hidden e botões inclusos no design para fazer a rolagem entre as partes.
 
-é inspirada em sites de portifólio comuns.
+é inspirada em sites de portifólio comuns. onde o usuaroo navegaria como em um site de noticias. ocasionando uma navegação mais tradicional e comum a todos.
 
-possuindo 3 seções, ela garante uma relação parecida com um site de portifólio comum, porém com alguns twists como o seu ciclo de dia e noite. dependendo de quando você entra no site ele muda a imagem e a paleta de cor para dar a impressão de passagem de tempo.
+O site possui 3 seções. ela garante uma relação parecida com um site de portifólio comum, porém com alguns twists como o seu ciclo de dia e noite. dependendo de quando você entra no site ele muda a imagem e a paleta de cor para dar a impressão de passagem de tempo.
 
 versão 2.0
 -
 
 uma versão ainda em desenvolvimento que ainda possui a mecânica de dia e noite da primeira versão, porém com modificações em torno da estrutura do site e seu design. tentando ficar mais parecido com um clone de interface de sistemas operacionais desktop.
 
-Os usuarios poderão verificar projetos, acessar repositórios e, se possível, baixar ou acessar o site para testar os programas apresentados no portifólio. oferecendo também descrições breves, demonstrações e imagens do projeto.
+Os usuarios poderão verificar projetos, acessar repositórios e, se possível, baixar ou acessar o site para testar os programas apresentados no portifólio. oferecendo também descrições breves, demonstrações e imagens do projeto. 
