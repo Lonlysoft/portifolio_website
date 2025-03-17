@@ -5,7 +5,7 @@ você já deve ter passado por algum na vida, esse é o classico site de portif�
 Versão 1.0
 -
 
-A versão 1.0 é uma versão. também conhecida como rolagem em salas. que utiliza o body com overflow hidden e botões inclusos no design para fazer a rolagem entre as partes.
+A versão 1.0 é uma versão mais simplória. Também conhecida como rolagem em salas, utiliza o body com overflow hidden e botões inclusos no design para fazer a navegação entre as partes.
 
 é inspirada em sites de portifólio comuns. onde o usuaroo navegaria como em um site de noticias. ocasionando uma navegação mais tradicional e comum a todos.
 
