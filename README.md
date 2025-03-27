@@ -16,5 +16,5 @@ versão 2.0
 
 uma versão ainda em desenvolvimento que ainda possui a mecânica de dia e noite da primeira versão, porém com modificações em torno da estrutura do site e seu design. tentando ficar mais parecido com um clone de interface de sistemas operacionais desktop.
 
-Os usuarios poderão verificar projetos, acessar repositórios e, se possível, baixar ou acessar o site para testar os programas apresentados no portifólio. oferecendo também descrições breves, demonstrações e imagens do projeto. 
+Os usuarios poderão ver os projetos, acessar repositórios e, se possível, baixar ou acessar o site para testar os programas apresentados no portifólio. oferecendo também descrições breves, demonstrações e imagens do projeto. 
 
